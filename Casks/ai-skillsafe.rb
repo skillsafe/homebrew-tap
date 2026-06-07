@@ -1,10 +1,10 @@
 cask "ai-skillsafe" do
-  version "0.2.13"
-  sha256 "7074ff1668f2c4a2dbda759b3170f62138dd37edbb662162b4247bda4382b655"
+  version "0.2.14"
+  sha256 "667fdcced279d64bd22212f24a622947f595dc2526306d3606497c4a7092fdb5"
 
   url "https://github.com/skillsafe/ai-skillsafe-app/releases/download/v#{version}/AI.SkillSafe_#{version}_universal.dmg"
   name "AI SkillSafe"
-  desc "Backup, browse, and scan AI agent skills, agents, and commands"
+  desc "Manager for AI coding-tool skills, agents, and slash commands"
   homepage "https://app.skillsafe.ai/"
 
   livecheck do
