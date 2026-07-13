@@ -1,6 +1,6 @@
 cask "ai-skillsafe" do
-  version "0.2.14"
-  sha256 "667fdcced279d64bd22212f24a622947f595dc2526306d3606497c4a7092fdb5"
+  version "0.2.15"
+  sha256 "3cff15775e5cf401dd7e5663207ac949278e5e11c1a7e0efff0db8be36adbd4a"
 
   url "https://github.com/skillsafe/ai-skillsafe-app/releases/download/v#{version}/AI.SkillSafe_#{version}_universal.dmg"
   name "AI SkillSafe"
